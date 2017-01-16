@@ -1,5 +1,3 @@
-[2016/10/19 - 15:32:49][][info]-->pluto- Successfully Logged Out.
-
 [2016/10/19 - 15:32:54][][info]-->Invalid Login or Password.
 
 [2016/10/19 - 15:32:59][][info]-->Login Success for User ==>pluto
